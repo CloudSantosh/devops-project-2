@@ -31,3 +31,5 @@ sudo rm -rf apache-maven-3.9.4-bin.zip
 
 export M2_HOME=/opt/apache-maven-3.9.4
 export PATH=$PATH:$M2_HOME/bin
+sleep 5
+source ~/.bashrc
